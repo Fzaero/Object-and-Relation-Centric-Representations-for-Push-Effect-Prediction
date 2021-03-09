@@ -1,0 +1,6 @@
+data.py: Contains loading data from folder.
+dataset.py: Wrapper for dataloaders.
+graph_processors.py: For preparing data for inserting it to GNN.
+val_and_test.py: For validating and testing the network.
+visualize.py: For generating videos of experiment results.
+
